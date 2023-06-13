@@ -1,16 +1,16 @@
 ## Tak, to nasz GitHub 👋
 
-![Okładka](https://cdn.discordapp.com/attachments/721911008213598238/1054908685526249502/1500x500.png)
+![Twitter header - 1](https://github.com/oxynstudios/.github/assets/34755589/9deeb5f9-d525-4f85-a235-9ef74fd74923)
 
-Małe hobbistyczne studio gier. 
+keep it simple.
 
 ### 💌 Kontakt
 
-- Strona: [oxyngames.tech][site]
-- E-mail: contact@oxyngames.tech
+- Strona: [oxynstudios.com][site]
+- E-mail: github@oxynstudios.com
 
 ---
 
-<sub>🤫 Psst! Nie zapomnij wpaść na naszą stronę. [oxyngames.tech](https://oxyngames.tech/).</sub>
+<sub>🤫 Psst! Nie zapomnij wpaść na naszą stronę. [oxynstudios.com](https://oxynstudios.com/).</sub>
 
-[site]: https://oxyngames.tech/
+[site]: https://oxynstudios.com/
